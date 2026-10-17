@@ -2,7 +2,7 @@
 name = "reddit_scraper"
 version = "0.1.0"
 description = ""
-authors = ["Chris Birch <chrisbirch@live.com>"]
+authors = ["Chris Birch <chrisbirch@fastmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
